@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "tutorialmod",
+	"version": "${version}",
+	"name": "tutorial mod",
+	"description": "erm... What the hay..",
+	"authors": [
+		"Diamphotoxin"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Diamphotxin/Fabric-Tutorial-1.21..git"
+	},
+	"license": "MIT",
+	"icon": "assets/tutorialmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.d4n.tutorialmod.TutorialMod"
+		],
+		"fabric-datagen": [
+			"net.d4n.tutorialmod.TutorialModDataGenerator"
+		],
+		"client": [
+			"net.d4n.tutorialmod.tutorialmod.TutorialModClient"
+		]
+	},
+	"mixins": [
+		"tutorialmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
