@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.75,
+  "group": "dimanite",
+  "ingredient": {
+    "item": "tutorialmod:raw_dimanite_deepslate_ore"
+  },
+  "result": {
+    "id": "tutorialmod:dimanite"
+  }
+}

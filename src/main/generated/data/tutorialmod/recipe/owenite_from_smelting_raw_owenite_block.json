@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.75,
+  "group": "owenite",
+  "ingredient": {
+    "item": "tutorialmod:raw_owenite_block"
+  },
+  "result": {
+    "id": "tutorialmod:owenite"
+  }
+}

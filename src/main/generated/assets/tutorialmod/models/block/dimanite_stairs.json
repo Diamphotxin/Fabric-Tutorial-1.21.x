@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "tutorialmod:block/dimanite_block",
+    "side": "tutorialmod:block/dimanite_block",
+    "top": "tutorialmod:block/dimanite_block"
+  }
+}

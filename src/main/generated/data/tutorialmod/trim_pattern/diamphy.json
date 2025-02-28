@@ -1,0 +1,8 @@
+{
+  "asset_id": "tutorialmod:diamphy",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.tutorialmod.diamphy"
+  },
+  "template_item": "tutorialmod:diamphy_smithing_template"
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "dimanite",
+  "description": {
+    "color": "#B03FE0",
+    "translate": "trim_material.tutorialmod.dimanite"
+  },
+  "ingredient": "tutorialmod:dimanite",
+  "item_model_index": 0.8
+}

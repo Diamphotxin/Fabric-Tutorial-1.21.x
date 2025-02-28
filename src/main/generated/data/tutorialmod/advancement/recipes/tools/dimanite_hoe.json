@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dimanite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "tutorialmod:dimanite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "tutorialmod:dimanite_hoe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dimanite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "tutorialmod:dimanite_hoe"
+    ]
+  }
+}

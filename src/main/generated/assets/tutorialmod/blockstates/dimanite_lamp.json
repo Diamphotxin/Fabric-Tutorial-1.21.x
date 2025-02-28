@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "tutorialmod:block/dimanite_lamp"
+    },
+    "clicked=true": {
+      "model": "tutorialmod:block/dimanite_lamp_on"
+    }
+  }
+}
