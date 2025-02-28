@@ -1,0 +1,64 @@
+{
+  "item.tutorialmod.dimanite": "Dimanite",
+  "item.tutorialmod.owenite": "Owenite",
+  "item.tutorialmod.chisel": "Chisel",
+  "item.tutorialmod.banano": "Banano",
+  "item.tutorialmod.star_drop": "Star Drop",
+
+
+  "item.tutorialmod.dimanite_sword": "Dimanite Sword",
+  "item.tutorialmod.dimanite_pickaxe": "Dimanite Pickaxe",
+  "item.tutorialmod.dimanite_axe": "Dimanite Axe",
+  "item.tutorialmod.dimanite_shovel": "Dimanite Shovel",
+  "item.tutorialmod.dimanite_hoe": "Dimanite Hoe",
+  "item.tutorialmod.dimanite_hammer": "Dimanite Hammer",
+
+
+
+
+  "item.tutorialmod.dimanite_helmet": "Dimanite Helmet",
+  "item.tutorialmod.dimanite_chestplate": "Dimanite Chestplate",
+  "item.tutorialmod.dimanite_leggings": "Dimanite Leggings",
+  "item.tutorialmod.dimanite_boots": "Dimanite Boots",
+  "item.tutorialmod.diamphy_smithing_template": "Diamphy Smithing Template",
+
+
+
+  "block.tutorialmod.dimanite_block": "Block of Dimanite",
+  "block.tutorialmod.owenite_block": "Block of Owenite",
+  "block.tutorialmod.dimanite_slab": "Dimanite Slab",
+  "block.tutorialmod.dimanite_button": "Dimanite Button",
+  "block.tutorialmod.dimanite_door": "Dimanite Door",
+  "block.tutorialmod.dimanite_trapdoor": "Dimanite Trapdoor",
+  "block.tutorialmod.dimanite_wall": "Dimanite Wall",
+  "block.tutorialmod.dimanite_pressure_plate": "Dimanite Pressure Plate",
+  "block.tutorialmod.dimanite_stairs": "Dimanite Stairs",
+  "block.tutorialmod.dimanite_fence": "Dimanite Fence",
+  "block.tutorialmod.dimanite_gate": "Dimanite Gate",
+  "block.tutorialmod.dimanite_lamp": "Dimanite Lamp",
+
+
+
+  "block.tutorialmod.raw_dimanite_block": "Block of Raw Dimanite",
+  "block.tutorialmod.raw_owenite_deepslate_ore": "Block of Deepslate Raw Owenite",
+  "block.tutorialmod.raw_dimanite_deepslate_ore": "Block of Deepslate Raw Dimanite",
+  "block.tutorialmod.raw_owenite_block": "Block of Raw Owenite",
+
+
+
+  "temgroup.tutorialmod.food_items":"Food Items",
+  "temgroup.tutorialmod.ore_items":"Ore Items",
+  "temgroup.tutorialmod.ore_blocks":"Ore Blocks",
+  "temgroup.tutorialmod.tool_items":"Tool Items",
+  "temgroup.tutorialmod.armor_items":"Armor Items",
+
+
+
+  "tooltip.tutorialmod.magic_block.tooltip": "This block is very §9BEBRA§r",
+  "tooltip.tutorialmod.chisel.shift_down": "This item creates bricks!!",
+  "tooltip.tutorialmod.chisel": "Press §eShift§r for more information",
+
+  "trim_material.tutorialmod.dimanite": "Dimanite Material",
+  "trim_material.tutorialmod.diamphy": "Diamphy Armor Pattern"
+
+}

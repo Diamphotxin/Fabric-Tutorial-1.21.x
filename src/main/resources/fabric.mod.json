@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.d4n.tutorialmod.TutorialMod"
+			"net.d4n.tutorialmod.tutorialmod.TutorialMod"
 		],
 		"fabric-datagen": [
-			"net.d4n.tutorialmod.TutorialModDataGenerator"
+			"net.d4n.tutorialmod.tutorialmod.TutorialModDataGenerator"
 		],
 		"client": [
 			"net.d4n.tutorialmod.tutorialmod.TutorialModClient"
