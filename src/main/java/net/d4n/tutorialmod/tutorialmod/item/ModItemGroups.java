@@ -39,6 +39,7 @@ public class ModItemGroups {
                         entries.add(ModItems.Dimanite_SHOVEL);
                         entries.add(ModItems.Dimanite_HOE);
                         entries.add(ModItems.Dimanite_HAMMER);
+                        entries.add(ModItems.Dimanite_Bow);
                     })
                     .build());
     public static final ItemGroup FOOD_ITEMS = Registry.register(Registries.ITEM_GROUP,

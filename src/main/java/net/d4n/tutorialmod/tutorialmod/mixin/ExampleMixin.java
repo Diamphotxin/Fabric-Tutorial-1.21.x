@@ -1,4 +1,4 @@
-package net.d4n.tutorialmod.mixin;
+package net.d4n.tutorialmod.tutorialmod.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

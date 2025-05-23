@@ -13,10 +13,13 @@ import net.minecraft.util.Identifier;
 
 
 public class ModItems {
+    public static final Item Dimanite_Bow = registerItem("dimanite_bow",
+            new BowItem(new Item.Settings().maxDamage(5000)));
     public static final Item Dimanite = registerItem("dimanite", new Item(new Item.Settings()));
     public static final Item Owenite = registerItem("owenite",new Item(new Item.Settings()));
     public static final Item CHISEL = registerItem("chisel", new ChiselItem(new Item.Settings().maxDamage(32)));
     public static final Item BANANO = registerItem("banano", new Item(new Item.Settings().food(ModFoodComponents.BANANO)));
+    public static final Item Garnet = registerItem("garnet", new Item(new Item.Settings().food(ModFoodComponents.Garnet)));
     public static final Item STAR_DROP = registerItem("star_drop", new Item(new Item.Settings()));
     public static final Item Dimanite_SWORD = registerItem("dimanite_sword",
     new SwordItem(ModToolMaterials.Dimanite,new Item.Settings()

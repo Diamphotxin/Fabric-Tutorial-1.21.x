@@ -1,8 +1,8 @@
-// 1.21	2025-02-23T21:42:33.9509275	tutorial mod/Block Loot Tables
+// 1.21	2025-05-23T13:28:58.9171014	tutorial mod/Block Loot Tables
 967c09439acf0c14c32d6923473c0e9097c0c035 data\tutorialmod\loot_table\blocks\dimanite_gate.json
 0d7c6065410602021eb309fdfc4063008acbf690 data\tutorialmod\loot_table\blocks\dimanite_slab.json
-689e4a6eef9f854570980e538bb960a3c3f42949 data\tutorialmod\loot_table\blocks\dimanite_trapdoor.json
 e969e26b527d3bba8f83653fb56ca005238c65b2 data\tutorialmod\loot_table\blocks\raw_dimanite_deepslate_ore.json
+689e4a6eef9f854570980e538bb960a3c3f42949 data\tutorialmod\loot_table\blocks\dimanite_trapdoor.json
 cbb358d78cd57da58c907a35212d486fa6f68efa data\tutorialmod\loot_table\blocks\magic_block.json
 b132e03974f13d1a274dfa84311414131cce66c7 data\tutorialmod\loot_table\blocks\dimanite_block.json
 e96b8b636129044a1345e2d548a97c3a0060023b data\tutorialmod\loot_table\blocks\dimanite_stairs.json

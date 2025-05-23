@@ -1,10 +1,13 @@
 {
 	"required": true,
-	"package": "net.d4n.tutorialmod.mixin",
+	"package": "net.d4n.tutorialmod.tutorialmod.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"
-	],
+	],"client": [
+	"AbstractClientPlayerEntityMixin"
+],
+
 	"injectors": {
 		"defaultRequire": 1
 	}

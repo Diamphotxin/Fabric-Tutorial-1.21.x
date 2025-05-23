@@ -1,4 +1,4 @@
-// 1.21	2025-02-23T21:42:33.9524576	tutorial mod/Model Definitions
+// 1.21	2025-05-23T13:28:58.9171014	tutorial mod/Model Definitions
 3e766a843fa675947368103032a6633c4a601084 assets\tutorialmod\models\item\dimanite_axe.json
 e40269d63d89200ec23d2c475afb5e56e29a8839 assets\tutorialmod\models\block\dimanite_fence_inventory.json
 cba9f2ec22491ed012e25fae065fdcaf9cf3e455 assets\tutorialmod\models\item\dimanite_helmet_lapis_trim.json
@@ -40,7 +40,6 @@ edbd3d0ace44f8b2d9bd581b1ffdeae50e923459 assets\tutorialmod\models\item\dimanite
 54f715971d5092a1b4b22b8c0d4d0a2e2d4d5492 assets\tutorialmod\models\item\dimanite_hoe.json
 aabfad53d020773de428b19a2ad8c38878c88d95 assets\tutorialmod\models\item\dimanite_boots_copper_trim.json
 96c80aea2fb5d14f33b07cbc7ecb049c5a241ba9 assets\tutorialmod\models\block\dimanite_gate_wall.json
-69a45d9eda7fcbbb46f3a4bf568243a7b2141123 assets\tutorialmod\models\item\chisel.json
 100979b83257891dfd34a32d0f5fb928677768a3 assets\tutorialmod\models\item\dimanite_helmet_gold_trim.json
 ed27aaa00c275028e1495bb6d6bfdcea1851067b assets\tutorialmod\models\block\magic_block.json
 a18e02b3f86ffb40ac53f0a79cc36872415a1176 assets\tutorialmod\models\block\raw_owenite_block.json
@@ -88,8 +87,8 @@ e2a419db77594583ef0cc7547ccac4a691f6369e assets\tutorialmod\models\block\owenite
 106d510874ed64c769f24a1ec7fab52d53720caa assets\tutorialmod\models\item\dimanite_chestplate_lapis_trim.json
 37edc771b9b7c572dc3594e8a4bae6f55fedd36e assets\tutorialmod\models\item\dimanite_chestplate_emerald_trim.json
 24cb61a423a28f9d16e807a532d582b3cd0a989b assets\tutorialmod\models\item\dimanite_chestplate_gold_trim.json
-e1d97115a389c7992393dfbd2a151cf63ce27ae9 assets\tutorialmod\models\block\dimanite_stairs_inner.json
 c7063e282cd26051e48d0be6fd63d0a770f21c20 assets\tutorialmod\models\block\dimanite_wall_side_tall.json
+e1d97115a389c7992393dfbd2a151cf63ce27ae9 assets\tutorialmod\models\block\dimanite_stairs_inner.json
 b70c3928ad7fbf9cca53bc7bdf8067c27534f881 assets\tutorialmod\models\item\dimanite_door.json
 d62551130ba71464f3e4251b42fe61d1bc979622 assets\tutorialmod\models\item\diamphy_smithing_template.json
 3848cf33a692f3b3994bf568e2b1750c2568d73d assets\tutorialmod\blockstates\owenite_block.json
